@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Mapy542
+- 👀 I’m interested in ... some data sience and industrial automation.
+- 🌱 I’m currently learning ... python java C++ etc
